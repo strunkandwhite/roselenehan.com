@@ -19,7 +19,6 @@ body {
 h1 {
   color: #ffffff;
   font-size: 1.8rem;
-  text-transform: uppercase;
   margin: 0;
 }
 
@@ -45,7 +44,7 @@ section.content {
 }
 
 section.content section {
-  max-width: 450px;
+  max-width: 460px;
 }
 
 section.content section:first-child {
